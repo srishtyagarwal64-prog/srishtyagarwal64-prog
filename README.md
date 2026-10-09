@@ -1,35 +1,226 @@
+
+<!-- =========================================================
+     SRISHTY AGARWAL | GITHUB PROFILE README
+     GitHub username: srishtyagarwal64-prog
+     ========================================================= -->
+
 <h1 align="center">Hi 👋, I'm Srishty Agarwal</h1>
-<h3 align="center">Full-Stack Developer | Turning Ideas into Web Applications | Exploring Generative AI & Agentic AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srishtyagarwal64-prog&label=Profile%20views&color=0e75b6&style=flat" alt="srishtyagarwal64-prog" /> </p>
+<h3 align="center">
+  Full-Stack Developer | MERN Stack | AI-Powered Applications
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srishtyagarwal64-prog" alt="srishtyagarwal64-prog" /></a> </p>
-
-- 🔭 I’m currently working on [Ai interview platform](https://github.com/srishtyagarwal64-prog/interview-platform)
-
-- 🌱 I’m currently learning **generative Ai,Agentic AI**
-
-- 👯 I’m looking to collaborate on [Ai interview platform](https://github.com/srishtyagarwal64-prog/interview-platform)
-
-- 🤝 I’m looking for help with [Ai interview platform](https://github.com/srishtyagarwal64-prog/interview-platform)
-
-- 💬 Ask me about **Building Full-Stack Applications & AI-Powered Solutions**
-
-- 📫 How to reach me **srishtyagarwal64@gmail.com**
-
-- ⚡ Fun fact **Fun fact: I love turning ideas into AI-powered web applications and making them smarter, one line of code at a time! 🤖💻**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/srishty agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srishty agarwal" height="30" width="40" /></a>
+<p align="center">
+  Building scalable web applications and exploring Generative AI,
+  Agentic AI, LLMs, RAG, and intelligent developer tools.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/srishtyagarwal64-prog">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="mailto:srishtyagarwal64@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/srishtyagarwal64-prog?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Projects-6C63FF?style=for-the-badge&logo=github" alt="Explore Projects" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srishtyagarwal64-prog&show_icons=true&locale=en&layout=compact" alt="srishtyagarwal64-prog" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srishtyagarwal64-prog&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srishtyagarwal64-prog&show_icons=true&locale=en" alt="srishtyagarwal64-prog" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishtyagarwal64-prog&" alt="srishtyagarwal64-prog" /></p>
+## 👩‍💻 About Me
 
+- 💻 Aspiring Software Developer focused on full-stack web development.
+- 🚀 Building real-world applications using the MERN stack.
+- 🤖 Exploring Generative AI, Agentic AI, LLMs, Prompt Engineering, RAG, and Vector Databases.
+- 🧠 Interested in integrating AI capabilities into practical web applications.
+- ☁️ Exploring cloud deployment and application infrastructure using AWS, Docker, and Nginx.
+- 🤝 Open to collaborating on full-stack and AI-powered projects.
+- 📫 Reach me at **srishtyagarwal64@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" alt="Frontend Skills" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma" alt="Backend Skills" />
+</p>
+
+### Authentication & API Development
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens" alt="JWT" />
+  <img src="https://img.shields.io/badge/RBAC-6C63FF?style=flat-square" alt="RBAC" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+### AI & Generative AI
+
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/LLMs-6C63FF?style=flat-square" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-00897B?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-8E44AD?style=flat-square" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-34495E?style=flat-square" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-0F766E?style=flat-square" alt="Vector Databases" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+</p>
+
+### Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,nginx,linux,vite" alt="Development Tools" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. 🤖 Prepnexa — AI Interview Platform
+
+An AI-powered interview preparation platform designed to help candidates practise interviews and review their performance.
+
+**Key features**
+- Interview setup based on role, experience, and interview type.
+- AI-generated interview questions and interactive interview sessions.
+- Speech-based interaction and interview performance reports.
+- Credit-based usage and Razorpay payment integration.
+
+**Tech stack:** React, JavaScript, Node.js, Express.js, MongoDB, AI APIs, Razorpay.
+
+<p>
+  <a href="https://github.com/srishtyagarwal64-prog/interview-platform">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Prepnexa Repository" />
+  </a>
+</p>
+
+### 2. 💬 Vaarta AI — Embedded Website Chatbot
+
+An AI chatbot concept designed to be embedded into websites, enabling visitors to interact with an AI assistant through a website widget.
+
+**Key features**
+- Embeddable chat widget for website integration.
+- AI-powered responses using an LLM API.
+- Website question-answering capabilities.
+- Conversation and message management with a backend API.
+
+**Tech stack:** React, JavaScript, Node.js, Express.js, MongoDB, Groq API.
+
+<p>
+  <a href="https://github.com/srishtyagarwal64-prog?tab=repositories">
+    <img src="https://img.shields.io/badge/Find%20Project%20Repository-181717?style=for-the-badge&logo=github" alt="Find Vaarta AI Repository" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=srishtyagarwal64-prog&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Statistics"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishtyagarwal64-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most Used Programming Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.demolab.com?user=srishtyagarwal64-prog&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+### ⭐ Repository & Community Metrics
+
+<p align="center">
+  <img
+    src="https://img.shields.io/github/followers/srishtyagarwal64-prog?label=Followers&style=for-the-badge&logo=github&color=6C63FF"
+    alt="GitHub Followers"
+  />
+  <img
+    src="https://img.shields.io/badge/Repositories-Explore%20All-181717?style=for-the-badge&logo=github"
+    alt="Explore All Repositories"
+  />
+  <a href="https://github.com/srishtyagarwal64-prog?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Stars%20Received-View%20Repositories-yellow?style=for-the-badge&logo=github"
+      alt="View Repositories and Stars"
+    />
+  </a>
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/srishtyagarwal64-prog">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=srishtyagarwal64-prog&theme=tokyo-night&hide_border=true&area=true"
+      alt="GitHub Contribution Activity Graph"
+      width="100%"
+    />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<!-- Optional: This image requires the GitHub Actions workflow
+     described below. Remove this section until the workflow
+     has generated output/snake.svg. -->
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/srishtyagarwal64-prog/srishtyagarwal64-prog/output/snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- Generative AI and LLM-powered applications.
+- Agentic AI and AI workflow design.
+- Retrieval-Augmented Generation (RAG).
+- Vector databases and semantic search.
+- Building and deploying production-oriented full-stack applications.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/srishtyagarwal64-prog">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:srishtyagarwal64@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- Add your verified LinkedIn profile URL here. -->
+</p>
+
+<p align="center">
+  <b>💡 Turning ideas into applications, one commit at a time.</b>
+</p>
